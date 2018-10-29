@@ -1,0 +1,73 @@
+body{
+	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* 
+	css voor het menu 
+	sjihdazi hellingman
+*/
+nav a{
+	color: white !important;
+}
+
+nav a:hover{
+	color: black !important;
+}
+
+nav .dropdown-menu{
+    margin: 16px 0 0 40px !important;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: rgb(0, 0, 0) !important;
+}
+
+.dropdown-menu a{
+	color: white;
+}
+
+.dropdown-menu{
+	background-color: #70b45a !important; 
+}
+
+.menu{
+    background-color: #41a543;
+    min-height: 70px;
+    border-bottom: 5px solid green;
+    color: white;
+    font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+.dropdown-menu a{
+	margin: 0px;
+}
+
+/* 
+	css voor de header 
+	sjihdazi hellingman
+*/
+#header{
+	height: auto;
+	padding: 20px 0 20px 0;
+}
+
+/* 
+	css voor de scheidingen 
+	sjihdazi hellingman
+*/
+.seperator{
+	height: 20px;
+	background-color: darkgreen;
+}
+
+/* 
+	css voor de content 
+	sjihdazi hellingman
+*/
+.content-title{
+	color: darkgreen;
+}
+
+.content-subtitle{
+	color: #41a543;
+}
