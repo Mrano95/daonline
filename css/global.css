@@ -70,3 +70,7 @@ nav .dropdown-menu{
 .content-subtitle{
 	color: #41a543;
 }
+
+.lang form, .lang img{
+	float: left;
+}
