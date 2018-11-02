@@ -29,9 +29,9 @@
                 <div class="row">                
                     <div class="col-sm-12 col-md-5">
                         <div class="content-title">
-                            <p><h1>Lorem ipsum</h1></p>
+                            <p><h1>Welcome to the Drentse Academie</h1></p>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>
+                        <p>The Drentse Academie is a young and fresh academy where students, teachers, researchers and professionals in their field of work, work together to find solutions to problems in the society. At the Drentse Academie there is a focus on Informatics and mechanical engineering studies. Within these studies the Drentse Academie offers a variety of specializations. The Drentse Academie is a small-scale studies who prides itself in transferring knowledge in a unique way. Thanks to the small scale of this studies Drentse Academie excels in individual assistance for their students. At the Drentse Academie you are not just a number you are an important individual.</p>
                     </div>
                     <div class="col-sm-12 col-md-7 mt-auto mb-auto">
                         <div class="content-img">
@@ -42,15 +42,17 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-5">
                         <div class="content-subtitle">
-                            <p><h2>Lorem ipsum</h2></p>
+                            <p><h2>Informatics</h2></p>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>
+                        <p>The informtics programme at the Drentse Academy makes use of the Internet of Things Laboratory (IoT Lab). It has the latest innovative devices available, including a Microsoft Surface Hub, Virtual Reality equipment, and robots. In addition to this lab, there is also MyConcept, a Fabrication Laboratory where students can use 3D printers to print their designs.</p>
+                        <p>The Drentse Academie offers, within the Informatics studies, a selection of different specialization. These consist of: ICT management, software engineering, technical informatics and front end development.</p>
                     </div>
                     <div class="col-sm-12 col-md-7">
                         <div class="content-subtitle">
-                            <p><h2>Lorem ipsum</h2></p>
+                            <p><h2>Mechanical engineering</h2></p>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>
+                        <p>At the studies Mechanical engineering you will learn everything about applied mechanical engineering. The challenge is to design new products or production systems. The studies mostly focusses on your creativity and your organising and technical skills. You will also learn to design, develop and produce new products and production systems.</p>
+                        <p>The Drentse Academie offers, within the Mechanical engineering studies, a selection of different specializations. These consist of: off-shore, ship-building, machine-building and steel and construction.</p>
                     </div>
                 </div>
             </div>

@@ -28,9 +28,9 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-5">
                         <div class="content-title">
-                            <p><h1>Lorem ipsum</h1></p>
+                            <p><h1>Welkom bij de Drentse Academie</h1></p>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>
+                        <p>De Drentse Academie is een jonge en frisse academie waar studenten, docenten, onderzoekers en professionals uit het werkveld samen werken aan het oplossen van vraagstukken uit de samenleving. Op de Drentse Academie wordt de focus gelegd op informatica en werktuigbouwkunde opleidingen. Binnen deze opleidingen bied de Drentse Academie haar studenten de mogelijkheid om een keuze te maken uit verschillende afstudeerrichtingen. De Drentse Academie is een kleinschalige opleiding die trots is op haar unieke manier van kennisoverdracht. Dankzij de kleinschaligheid van de opleiding blink de Drentse Academie uit op het gebied van individuele begeleiding. Als student ben je bij ons geen nummer maar een persoon.</p>
                     </div>
                     <div class="col-sm-12 col-md-7 mt-auto mb-auto">
                         <div class="content-img">
@@ -41,15 +41,17 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-5">
                         <div class="content-subtitle">
-                            <p><h2>Lorem ipsum</h2></p>
+                            <p><h2>Informatica</h2></p>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>
+                        <p>De Informatica opleiding aan de Drentse Academie heeft een state-of-the art atelier: het Internet of Things Lab (IoT Lab). Een studieomgeving voorzien van de nieuwste innovatieve technologie, zoals een Microsoft Surface Hub, Virtual Reality apparaten en robots. Naast dit atelier beschikt de opleiding ook over MyConcept, een Fabrication Lab. Daar kunnen studenten hun ideeen verwezenlijken door ze te printen op een van de vele 3D-printers, of middels lasersnijden.</p>
+                        <p>Binnen de Informatica opleiding biedt de Drentse Academie verschillende afstudeeropties. Deze afstudeeropties zijn: ICT-beheer, software engineering, technische informatica en front end development.</p>
                     </div>
                     <div class="col-sm-12 col-md-7">
                         <div class="content-subtitle">
-                            <p><h2>Lorem ipsum</h2></p>
+                            <p><h2>Werktuigbouwkunde</h2></p>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>
+                        <p>In de opleiding Werktuigbouwkunde leer je alles over werktuigbouwkundige toepassingen. Het is een uitdaging om nieuwe producten of productiesystemen te ontwerpen. Daarbij doet de opleiding een beroep op je creativiteit en je technische en organisatorische vermogen. Je leert nieuwe producten en productiesystemen ontwerpen, ontwikkelen en maken.</p>
+                        <p>Binnen de Werktuigbouwkunde opleiding biedt de Drentse Academie verschillende afstudeeropties. Deze afstudeeropties zijn: off-shore, scheepsbouw, machine bouw en staal en constructie.</p>
                     </div>
                 </div>
             </div>
