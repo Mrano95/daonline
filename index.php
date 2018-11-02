@@ -28,7 +28,7 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-5">
                         <div class="content-title">
-                            <p><h1>Welkom bij de Drentse Academie</h1></p>
+                            <p><h1 id="pageTitle">Welkom bij de Drentse Academie</h1></p>
                         </div>
                         <p>De Drentse Academie is een jonge en frisse academie waar studenten, docenten, onderzoekers en professionals uit het werkveld samen werken aan het oplossen van vraagstukken uit de samenleving. Op de Drentse Academie wordt de focus gelegd op informatica en werktuigbouwkunde opleidingen. Binnen deze opleidingen bied de Drentse Academie haar studenten de mogelijkheid om een keuze te maken uit verschillende afstudeerrichtingen. De Drentse Academie is een kleinschalige opleiding die trots is op haar unieke manier van kennisoverdracht. Dankzij de kleinschaligheid van de opleiding blink de Drentse Academie uit op het gebied van individuele begeleiding. Als student ben je bij ons geen nummer maar een persoon.</p>
                     </div>

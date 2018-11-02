@@ -8,7 +8,7 @@
     <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/fontawesome.js"
      integrity="sha384-7ox8Q2yzO/uWircfojVuCQOZl+ZZBg2D2J5nkpLqzH1HY0C1dHlTKIbpRz/LG23c" crossorigin="anonymous"></script>
 
-    <title>Starter Template for Bootstrap</title>
+    <title>Home</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -20,16 +20,16 @@
   <body>
     <?php
         include 'components/menu.html';
-        include 'components/header.html';
+        include 'components/header_en.html';
     ?>
     <div class="seperator col-12"></div>
     <main role="main" class="container">
         <div class="container">
             <div class="content">
-                <div class="row">                
+                <div class="row">
                     <div class="col-sm-12 col-md-5">
                         <div class="content-title">
-                            <p><h1>Welcome to the Drentse Academie</h1></p>
+                            <p><h1 id="pageTitle">Welcome to the Drentse Academie</h1></p>
                         </div>
                         <p>The Drentse Academie is a young and fresh academy where students, teachers, researchers and professionals in their field of work, work together to find solutions to problems in the society. At the Drentse Academie there is a focus on Informatics and mechanical engineering studies. Within these studies the Drentse Academie offers a variety of specializations. The Drentse Academie is a small-scale studies who prides itself in transferring knowledge in a unique way. Thanks to the small scale of this studies Drentse Academie excels in individual assistance for their students. At the Drentse Academie you are not just a number you are an important individual.</p>
                     </div>
