@@ -8,7 +8,7 @@
     <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/fontawesome.js"
      integrity="sha384-7ox8Q2yzO/uWircfojVuCQOZl+ZZBg2D2J5nkpLqzH1HY0C1dHlTKIbpRz/LG23c" crossorigin="anonymous"></script>
 
-    <title>Starter Template for Bootstrap</title>
+    <title>Home</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -26,7 +26,7 @@
     <main role="main" class="container">
         <div class="container">
             <div class="content">
-                <div class="row">                
+                <div class="row">
                     <div class="col-sm-12 col-md-5">
                         <div class="content-title">
                             <p><h1>Lorem ipsum</h1></p>
