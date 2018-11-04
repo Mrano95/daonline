@@ -1,8 +1,22 @@
 <nav class="navbar navbar-light navbar-expand-lg menu">
         <div class="container">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
+            <div class="col-sm-12 col-md-12 mt-auto d-lg-none">
+                <div class="row">
+                    <button class="navbar-toggler col-sm-6" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="lang col-sm-6">
+                        <form name="dropdown">
+                            <select name="list" id="lang_sel" class="form-control succes" onchange="langFunc()">
+                                <option value="index_en.php">English</option>
+                                <option selected value="index.php">Nederlands</option>
+                            <select>
+                        </form>
+                        <img src="images/nl.png">
+                    </div>
+                </div>
+                
+            </div>
             <div class="collapse navbar-collapse justify-content-center nav-fill" id="navbarNav">
                 <ul class="navbar-nav nav-fill w-100">
                     <li class="nav-item">
