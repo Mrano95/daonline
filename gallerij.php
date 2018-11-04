@@ -112,12 +112,11 @@
 						}
 					?>
 					<form action="gallerij.php" method="post" enctype="multipart/form-data">
-				<p>Select image to upload:
-				<input type="file" name="myfile" id="fileToUpload">
-				<input type="submit" value="Upload Image" name="submit"></p>
-				</form>
+					<p>Select image to upload:
+					<input type="file" name="myfile" id="fileToUpload">
+					<input type="submit" value="Upload Image" name="submit"></p>
+					</form>
                 </div>
-				
             </div>
         </div>
     </main><!-- /.container -->
