@@ -16,8 +16,8 @@
     <!-- Global styles for this template -->
     <link href="css/global.css" rel="stylesheet">
 
-    <!-- Global styles for this template -->
-    <link href="css/opleidingenWer.css" rel="stylesheet">
+    <!-- Specifieke styles for this template -->
+    <link href="css/opleidingen.css" rel="stylesheet">
   </head>
 
   <body>
@@ -31,32 +31,33 @@
             <div class="content">
                 <div class="row">
                     <div class="col-sm-12 col-md-12">
-                        <div class="content-title">
-                            <p><h1>Lorem ipsum</h1></p>
-                        </div>
-                        <p id="introAlinea">Worden jouw werkzaamheden uitgebreid? Zoek je meer verdieping en wil je de ideale combinatie tussen werk, opleiding en privé? Kies dan voor de opleiding Werktuigbouwkunde duaal, een opleiding waarin werkend leren centraal staat.</p>
+                        <p id="introAlinea">Worden jouw werkzaamheden uitgebreid? Zoek je meer verdieping en wil je de ideale combinatie tussen werk, opleiding en privé? Kies dan voor de opleiding Werktuigbouwkunde duaal, een opleiding waarin werkend leren centraal staat. Wil je toch eerst meer weten over de opleiding lees dan verder en dan zullen we proberen jou de opleiding uit te leggen.</p>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-12 col-md-5">
+                    <div class="col-sm-12 col-md-12">
                         <div class="content-subtitle">
-                            <p><h2>Lorem ipsum</h2></p>
+                            <p><h3>Gereedschap voor je toekomst</h3></p>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>
                     </div>
-                    <div class="col-sm-12 col-md-7 mt-auto mb-auto">
+                    <div class="col-sm-12 col-md-12">
                         <div class="content-img">
-                            <img src="images/school.jpg" class="img-fluid">
-                              <p>Lorem ipsum.</p>
-                            <img src="images/school.jpg" class="img-fluid">
-                              <p>Lorem ipsum.</p>
+                            <img src="images/werktuigbouwkundebredefoto.jpg" class="contentfoto">
+                            <p class="imgNote">Afb.Werken met je handen</p>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-7">
+                    <div class="col-sm-12 col-md-12">
                         <div class="content-subtitle">
-                            <p><h2>Lorem ipsum</h2></p>
+                            <p><h3>Begeleiding en zelfstandigheid</h3></p>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>
+                    </div>
+                    <div class="col-sm-12 col-md-12">
+                        <div class="content-subtitle">
+                            <p><h3>Doorgroeimogelijkheden</h3></p>
+                        </div>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</p>
                     </div>
                 </div>
             </div>

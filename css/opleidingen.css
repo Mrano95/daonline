@@ -1,0 +1,21 @@
+#introAlinea{
+  color: #70b45a;
+  font-weight: bold;
+  text-align: justify;
+  margin: 25px 0px;
+}
+
+h2 {
+  text-align: left;
+}
+
+.contentfoto  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imgNote  {
+  text-align: center;
+  color: Darkgreen;
+}
