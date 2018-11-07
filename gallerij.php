@@ -105,14 +105,6 @@
 						  <img src="images/logo.png" alt="Third slide" class="img-fluid">
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-						<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-						<span class="carousel-control-next-icon" aria-hidden="true"></span>
-						<span class="sr-only">Next</span>
-					</a>
 				</div>
                 <div class="row">
 					<?php
@@ -121,7 +113,6 @@
 						{
 							echo 	'<div class="col-6 col-sm-4 col-md-2 mt-2 mb-2">
 										<div class="foto"> 
-												
 												<a href="'.$image.'" target="_blank"><img src="'.$image.'" alt="gallerij" class="img-fluid"></a>
 										</div> 
 									</div>';
