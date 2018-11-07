@@ -94,16 +94,22 @@
 						<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
 						<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
 					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-						  <img src="images/logo.png" alt="First slide" class="img-fluid">
-						</div>
-						<div class="carousel-item">
-							<img src="images/logo.png" alt="Second slide" class="img-fluid">
-						</div>
-						<div class="carousel-item">
-						  <img src="images/logo.png" alt="Third slide" class="img-fluid">
-						</div>
+					<div class="carousel-inner" >
+					
+						<?php
+							echo	'<div class="carousel-item active">
+										<a href="'.$images[0].'" target="_blank"><img src="'.$images[0].'" alt="gallerij" class="img-fluid"></a>
+									</div>';
+						
+							echo 	'<div class="carousel-item">
+										<a href="'.$images[1].'" target="_blank"><img src="'.$images[1].'" alt="gallerij" class="img-fluid"></a>
+									</div>';
+						
+							echo 	'<div class="carousel-item">
+										<a href="'.$images[2].'" target="_blank"><img src="'.$images[2].'" alt="gallerij" class="img-fluid"></a>
+									</div>';
+						?>
+					
 					</div>
 				</div>
                 <div class="row">
