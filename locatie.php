@@ -13,6 +13,9 @@
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
+    <!-- global styles for this template -->
+    <link href="css/global.css" rel="stylesheet">
+
     <!-- Custom styles for this template -->
     <link href="css/global.css" rel="stylesheet">
   </head>
@@ -28,29 +31,31 @@
             <div class="content">
                 <div class="row">
                     <div class="col-sm-12 col-md-5">
-                        <div class="content-title">
-                            <p><h1>Lorem ipsum</h1></p>
-                        </div>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>
-                    </div>
-                    <div class="col-sm-12 col-md-7 mt-auto mb-auto">
-                        <div class="content-img">
-                            <img src="images/school.jpg" class="img-fluid">
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-12 col-md-5">
                         <div class="content-subtitle">
                             <p><h2>Lorem ipsum</h2></p>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>
+                        <p>Leeuwarden (hoofdvestiging)</p>
+                        <p>De hoofdlocatie van NHL Stenden vind je in Leeuwarden.</p>
+
+                        <p>Adres</p>
+                        <p>NHL Stenden Hogeschool Leeuwarden</p>
+                        <p>Rengerslaan 8-10</p>
+                        <p>8917 DD Leeuwarden</p>
+                        <p>studentinfo@nhlstenden.com</p>
+                        <p>+31 (0)88 991 7000</p>
+
+                        <p>Postadres</p>
+                        <p>Postbus 1080</p>
+                        <p>8900 CB Leeuwarden</p>
                     </div>
-                    <div class="col-sm-12 col-md-7">
-                        <div class="content-subtitle">
-                            <p><h2>Lorem ipsum</h2></p>
+                        <div class="col-sm-12 col-md-7">
+                            <div class="content-subtitle">
+                                <p><h2>Lorem ipsum</h2></p>
+                            </div>
+                            <div class="content-img">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2413.4468314686014!2d6.910182015785215!3d52.778250379863856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b7e61f3ec72443%3A0xbe9d297b3e4fbcc7!2sNHL+Stenden+Hogeschool+Emmen!5e0!3m2!1snl!2snl!4v1541615745555" allowfullscreen></iframe>
+                            </div>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>
                     </div>
                 </div>
             </div>
