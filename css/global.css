@@ -2,8 +2,8 @@ body{
 	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/* 
-	css voor het menu 
+/*
+	css voor het menu
 	sjihdazi hellingman
 */
 nav a{
@@ -27,7 +27,7 @@ nav .dropdown-menu{
 }
 
 .dropdown-menu{
-	background-color: #70b45a !important; 
+	background-color: #70b45a !important;
 }
 
 
@@ -50,8 +50,28 @@ nav .dropdown-menu{
 	margin: 0px;
 }
 
-/* 
-	css voor de header 
+/*
+Header styling
+Falko Schoonewille
+*/
+
+.header-background {
+	background: url('../images/header.jpg');
+  background-size: cover;
+  background-position: bottom;
+}
+
+#page_title {
+	color: #fff;
+	display: inline-block;
+	min-width: 250px;
+	margin: 0 auto;
+	background: #006400;
+	font-weight: 400;
+}
+
+/*
+	css voor de header
 	sjihdazi hellingman
 */
 #header{
@@ -63,8 +83,8 @@ nav .dropdown-menu{
     margin-top: 6px;
 }
 
-/* 
-	css voor de scheidingen 
+/*
+	css voor de scheidingen
 	sjihdazi hellingman
 */
 .seperator{
@@ -72,8 +92,8 @@ nav .dropdown-menu{
 	background-color: darkgreen;
 }
 
-/* 
-	css voor de content 
+/*
+	css voor de content
 	sjihdazi hellingman
 */
 .content-title{
