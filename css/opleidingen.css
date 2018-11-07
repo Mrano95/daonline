@@ -9,13 +9,6 @@ h2 {
   text-align: left;
 }
 
-.contentfoto  {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.imgNote  {
-  text-align: center;
-  color: Darkgreen;
+.contentfoto img  {
+  width: 100%;
 }
