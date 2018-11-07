@@ -79,7 +79,7 @@
     						</div>
 		            <!-- Form actions -->
 		            <div class="form-group">
-		               <input name="submit"  type="submit" class="btn btn-primary btn-lg" value="inschrijven"></input>
+		               <input name="submit"  type="submit" class="btn btn-primary btn-lg" value="Versturen"></input>
 		            </div>
 		          </form>
             </div>
