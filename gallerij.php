@@ -88,13 +88,41 @@
     <main role="main" class="container">
         <div class="container">
             <div class="content">
+				<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+						<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+						  <img src="images/logo.png" alt="First slide" class="img-fluid">
+						</div>
+						<div class="carousel-item">
+							<img src="images/logo.png" alt="Second slide" class="img-fluid">
+						</div>
+						<div class="carousel-item">
+						  <img src="images/logo.png" alt="Third slide" class="img-fluid">
+						</div>
+					</div>
+					<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a>
+				</div>
                 <div class="row">
 					<?php
+					
 						foreach ($images as $image) 
 						{
-							echo 	'<div class="col-6 col-sm-4 col-md-3 mt-2 mb-2">
-										<div class="content-img"> 
-												<img src="'.$image.'" alt="gallerij" class="img-fluid"/> 
+							echo 	'<div class="col-6 col-sm-4 col-md-2 mt-2 mb-2">
+										<div class="foto"> 
+												
+												<a href="'.$image.'" target="_blank"><img src="'.$image.'" alt="gallerij" class="img-fluid"></a>
 										</div> 
 									</div>';
 						}
