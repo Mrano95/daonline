@@ -1,0 +1,10 @@
+#subscription_form p
+{
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+#subscription_form input[type="submit"] 
+{
+    margin-top: 15px;
+}
