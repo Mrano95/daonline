@@ -4,7 +4,15 @@
     margin-bottom: 0;
 }
 
-#subscription_form input[type="submit"] 
+#subscription_form input[type="submit"]
 {
     margin-top: 15px;
+}
+
+
+/* reset bootstrap css */
+
+.custom-checkbox .custom-control-input:indeterminate~.custom-control-label::after,
+ {
+  background: none;
 }
