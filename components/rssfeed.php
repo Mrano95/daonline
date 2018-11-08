@@ -11,7 +11,7 @@ $parsedXML = new SimpleXmlElement($feed);
     for($x = 1; $x <= $amountOfArticles; $x++) : ?>
       <div class="col-sm-4">
         <div class="rss-item">
-          <a href="<?php echo $parsedXML->channel->item[$x]->link; ?>">
+          <a target="_blank" href="<?php echo $parsedXML->channel->item[$x]->link; ?>">
             <h3><?php echo $parsedXML->channel->item[$x]->title; ?></h3>
             <p><?php echo $parsedXML->channel->item[$x]->description; ?></p>
           </a>
