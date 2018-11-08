@@ -1,23 +1,23 @@
 <!doctype html>
  <?php
-			$msg="";
-            session_start();
-            if (isset($_POST['login']) && !empty($_POST['username']) 
-               && !empty($_POST['password'])) 
-			{
-				
-               if ($_POST['username'] == 'Rob' && 
-                  $_POST['password'] == 'Site') 
-				{
-					$_SESSION['login']= TRUE;
-					header( "Location: upload.php" );
-				}
-				else
-				{
-					$msg= "Username of Password is onjuist";
-				}
-            }
-         ?>
+	$msg="";
+	session_start();
+	if (isset($_POST['login']) && !empty($_POST['username']) 
+	   && !empty($_POST['password'])) 	//check of alles is ingevuld.
+	{
+		
+	   if ($_POST['username'] == 'Rob' && 
+		  $_POST['password'] == 'Site') 
+		{
+			$_SESSION['login']= TRUE;
+			header( "Location: upload.php" );
+		}
+		else
+		{
+			$msg= "Username of Password is onjuist";
+		}
+	}
+ ?>
 <html>
 	<head>
 		<title>Login</title>
@@ -29,13 +29,10 @@
 		integrity="sha384-7ox8Q2yzO/uWircfojVuCQOZl+ZZBg2D2J5nkpLqzH1HY0C1dHlTKIbpRz/LG23c" crossorigin="anonymous"></script>
 	</head>
 	<body>
-         <form class = "form-signin"  method = "post">
-            <h4><?php echo $msg; ?></h4>
-            <input type = "text" class = "form-control" 
-               name = "username" placeholder = "username" 
-               required autofocus>
-            <input type = "password" class = "form-control"
-               name = "password" placeholder = "password" required>
+         <form method = "post">
+            <h2><?php echo $msg; ?></h2>
+            <input type = "text" class = "form-control" name = "username" placeholder = "username" required autofocus>
+            <input type = "password" class = "form-control" name = "password" placeholder = "password" required>
             <input type = "submit" value="Login"name = "login">
          </form>
 	</body>
