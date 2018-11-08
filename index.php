@@ -54,6 +54,11 @@
                         <p>Binnen de Werktuigbouwkunde opleiding biedt de Drentse Academie verschillende afstudeeropties. Deze afstudeeropties zijn: off-shore, scheepsbouw, machine bouw en staal en constructie.</p>
                     </div>
                 </div>
+                <div class="row">
+                  <div class="col-sm-12 col-md-12">
+                    <?php include 'components/rssfeed.php'; ?>
+                  </div>
+                </div>
             </div>
         </div>
     </main><!-- /.container -->
