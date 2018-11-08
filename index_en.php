@@ -56,7 +56,7 @@
             </div>
             <div class="row">
               <div class="col-sm-12 col-md-12">
-                <?php include 'components/rssfeed.php'; ?>
+                <?php include 'components/rssfeed_en.php'; ?>
               </div>
             </div>
         </div>
