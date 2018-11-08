@@ -1,6 +1,7 @@
-function langFunc()
+function langFunc(lang)
 {
-    var lang = document.getElementById("lang_sel").value;
+    // var lang = document.getElementById("lang_sel").value;
+    console.log(lang);
     window.location = lang;
 }
 

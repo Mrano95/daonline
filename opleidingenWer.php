@@ -26,7 +26,7 @@
         include 'components/header.html';
     ?>
     <div class="seperator col-12"></div>
-    <main role="main" class="container">
+    <main role="main">
         <div class="container">
             <div class="content">
                 <div class="row">

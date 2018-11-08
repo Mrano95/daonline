@@ -18,19 +18,19 @@
 
   <body>
     <?php
-        include 'components/menu.html';
-        include 'components/header.html';
+        include 'components/menu_en.html';
+        include 'components/header_en.html';
     ?>
     <div class="seperator col-12"></div>
-    <main role="main" class="container">
+    <main role="main">
         <div class="container">
             <div class="content">
                 <div class="row">
                     <div class="col-sm-12 col-md-12">
                         <div class="content-title">
-                            <p><h1 id="pageTitle">Bedankt!</h1></p>
+                            <p><h1 id="pageTitle">Thanks!</h1></p>
                         </div>
-                        <p>Voor het invullen van het formulier.</p>
+                        <p>For choosing Drentse Academy.</p>
                     </div>
                 </div>
             </div>

@@ -1,29 +1,28 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/fontawesome.js"
-     integrity="sha384-7ox8Q2yzO/uWircfojVuCQOZl+ZZBg2D2J5nkpLqzH1HY0C1dHlTKIbpRz/LG23c" crossorigin="anonymous"></script>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/fontawesome.js"
+         integrity="sha384-7ox8Q2yzO/uWircfojVuCQOZl+ZZBg2D2J5nkpLqzH1HY0C1dHlTKIbpRz/LG23c" crossorigin="anonymous"></script>
+        <title>Home</title>
 
-    <title>Home</title>
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="css/global.css" rel="stylesheet">
-  </head>
+        <!-- Custom styles for this template -->
+        <link href="css/global.css" rel="stylesheet">
+    </head>
 
   <body>
     <?php
-        include 'components/menu.html';
+        include 'components/menu_en.html';
         include 'components/header_en.html';
     ?>
     <div class="seperator col-12"></div>
-    <main role="main" class="container">
+    <main role="main">
         <div class="container">
             <div class="content">
                 <div class="row">
@@ -53,8 +52,12 @@
                         </div>
                         <p>At the studies Mechanical engineering you will learn everything about applied mechanical engineering. The challenge is to design new products or production systems. The studies mostly focusses on your creativity and your organising and technical skills. You will also learn to design, develop and produce new products and production systems.</p>
                         <p>The Drentse Academie offers, within the Mechanical engineering studies, a selection of different specializations. These consist of: off-shore, ship-building, machine-building and steel and construction.</p>
-                    </div>
                 </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-12 col-md-12">
+                <?php include 'components/rssfeed.php'; ?>
+              </div>
             </div>
         </div>
     </main><!-- /.container -->

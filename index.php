@@ -22,7 +22,7 @@
         include 'components/header.html';
     ?>
     <div class="seperator col-12"></div>
-    <main role="main" class="container">
+    <main role="main">
         <div class="container">
             <div class="content">
                 <div class="row">
@@ -54,11 +54,11 @@
                         <p>Binnen de Werktuigbouwkunde opleiding biedt de Drentse Academie verschillende afstudeeropties. Deze afstudeeropties zijn: off-shore, scheepsbouw, machine bouw en staal en constructie.</p>
                     </div>
                 </div>
-                <div class="row">
-                  <div class="col-sm-12 col-md-12">
-                    <?php include 'components/rssfeed.php'; ?>
-                  </div>
-                </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-12 col-md-12">
+                <?php include 'components/rssfeed.php'; ?>
+              </div>
             </div>
         </div>
     </main><!-- /.container -->
