@@ -136,5 +136,7 @@ Falko Schoonewille
 }
 
 .lang form, .lang img{
-	float: left;
+	float: right;
+	margin: 0;
+	margin-left: 10px;
 }
