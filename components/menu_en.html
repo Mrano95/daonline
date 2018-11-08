@@ -6,13 +6,17 @@
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="lang col-sm-6">
-                        <form name="dropdown">
-                            <select name="list" id="lang_sel" class="form-control succes" onchange="langFunc()">
-                                <option value="index_en.php">English</option>
-                                <option selected value="index.php">Nederlands</option>
-                            <select>
-                        </form>
-                        <img src="images/uk.png">
+                      <div class="lang">
+                        <div class="dropdown show mobile">
+                          <a class="btn btn-secondary dropdown-toggle" href="https://example.com" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <img src="images/uk.png" alt="English"> Language
+                          </a>
+                          <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                            <a class="dropdown-item" href="index_en.php">English</a>
+                            <a class="dropdown-item" href="index.php">Nederlands</a>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                 </div>
 
