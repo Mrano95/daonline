@@ -26,13 +26,12 @@
         include 'components/header_en.html';
     ?>
     <div class="seperator col-12"></div>
-    <main role="main">
         <div class="container">
             <div class="content">
                 <div class="row">
                     <div class="col-sm-12 col-md-5">
                         <div class="content-subtitle">
-                            <p><h2>Our contact information</h2></p>
+                            <h2>Our contact information</h2>
                         </div>
                         <p>Drentse Academie </p>
                         <p>Our contact adress for the Drentse Academie is in Leeuwarden</p>
@@ -50,7 +49,7 @@
                     </div>
                         <div class="col-sm-12 col-md-7">
                             <div class="content-subtitle">
-                                <p><h2>Where to find us</h2></p>
+                                <h2>Where to find us</h2>
                             </div>
                             <div class="content-img">
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2413.4468314686014!2d6.910182015785215!3d52.778250379863856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b7e61f3ec72443%3A0xbe9d297b3e4fbcc7!2sNHL+Stenden+Hogeschool+Emmen!5e0!3m2!1snl!2snl!4v1541615745555" allowfullscreen></iframe>
@@ -59,8 +58,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </main><!-- /.container -->
     <?php include 'components/footer.html'; ?>
   </body>
 </html>

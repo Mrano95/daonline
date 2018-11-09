@@ -57,12 +57,12 @@
     						  <label class="custom-control-label" for="scheepsbouw">Shipbuilding</label>
     						</div>
     						<div class="custom-control custom-radio">
-    						  <input name="courseWBK" type="radio" class="custom-control-input" id="machine bouw" value="machine_bouw">
-    						  <label class="custom-control-label" for="machine bouw">Machinebuilding</label>
+    						  <input name="courseWBK" type="radio" class="custom-control-input" id="machinebouw" value="machine_bouw">
+    						  <label class="custom-control-label" for="machinebouw">Machinebuilding</label>
     						</div>
     						<div class="custom-control custom-radio">
-    						  <input name="courseWBK" type="radio" class="custom-control-input" id="staal en constructie" value="staal_en_constructie">
-    						  <label class="custom-control-label" for="staal en constructie">Steel and Construction</label>
+    						  <input name="courseWBK" type="radio" class="custom-control-input" id="staal_en_constructie" value="staal_en_constructie">
+    						  <label class="custom-control-label" for="staal_en_constructie">Steel and Construction</label>
     						</div>
     						<p><i>Informatica :</i></p>
     						<div class="custom-control custom-radio">
@@ -70,33 +70,32 @@
     						  <label class="custom-control-label" for="ICT-beheer">IT Management</label>
     						</div>
     						<div class="custom-control custom-radio">
-    						  <input name="courseICT" type="radio" class="custom-control-input" id="Software engineering" value="software_engineer">
-    						  <label class="custom-control-label" for="Software engineering">Software engineering</label>
+    						  <input name="courseICT" type="radio" class="custom-control-input" id="Software_engineering" value="software_engineer">
+    						  <label class="custom-control-label" for="Software_engineering">Software engineering</label>
     						</div>
     						<div class="custom-control custom-radio">
-    						  <input name="courseICT" type="radio" class="custom-control-input" id=" technische informatica" value="technische_informatica">
-    						  <label class="custom-control-label" for=" technische informatica"> Technical Informatics</label>
+    						  <input name="courseICT" type="radio" class="custom-control-input" id="technische_informatica" value="technische_informatica">
+    						  <label class="custom-control-label" for="technische_informatica"> Technical Informatics</label>
     						</div>
     						<div class="custom-control custom-radio">
-    						  <input name="courseICT" type="radio" class="custom-control-input" id="front end development" value="front_end_development">
-    						  <label class="custom-control-label" for="front end development">Front end Development</label>
+    						  <input name="courseICT" type="radio" class="custom-control-input" id="front_end_development" value="front_end_development">
+    						  <label class="custom-control-label" for="front_end_development">Front end Development</label>
     						</div>
 		            <!-- Form actions -->
 		            <div class="form-group">
-		               <input name="submit"  type="submit" class="btn btn-primary btn-lg" value="Send"></input>
+		               <input name="submit"  type="submit" class="btn btn-primary btn-lg" value="Send"/>
 		            </div>
 		          </form>
             </div>
 
             <div class="col-xl-5 col-sm-12">
             	 <div class="content-img">
-                    <img src="images/school.jpg" class="img-fluid">
+                    <img src="images/school.jpg" class="img-fluid" alt="school">
                 </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
     <?php include "components/footer.html" ?>
   </body>
 </html>
