@@ -42,15 +42,14 @@
 		<link href="css/gallerij.css" rel="stylesheet">
 	</head>
 
-  <body>
-    <?php
-        include 'components/menu.html';
-        include 'components/header.html';
-    ?>
-    <div class="seperator col-12"></div>
-    <main role="main" class="container">
-        <div class="container">
-            <div class="content">
+	<body>
+		<?php
+			include 'components/menu.html';
+			include 'components/header.html';
+		?>
+		<div class="seperator col-12"></div>
+		<div class="container">
+			<div class="content">
 				<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
 						<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -73,7 +72,7 @@
 						?>
 					</div>
 				</div>
-                <div class="row">
+				<div class="row">
 					<?php
 						foreach ($images as $image) 
 						{	//echo alle fotos op volgorde van de array uit de stored folder.
@@ -85,9 +84,8 @@
 						}
 					?>
 				</div>
-            </div>
-        </div>
-    </main><!-- /.container -->
-    <?php include 'components/footer.html'; ?>
-  </body>
+			</div>
+		</div>
+		<?php include 'components/footer.html'; ?>
+	</body>
 </html>
